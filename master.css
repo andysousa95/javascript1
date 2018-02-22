@@ -1,0 +1,13 @@
+ul {
+  color: black;
+  list-style: none;
+  padding: 0;
+}
+
+li:nth-child(even) {
+  background: gray;
+}
+
+li:nth-child(odd) {
+  background: red;
+}
