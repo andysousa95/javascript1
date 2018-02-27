@@ -5,7 +5,7 @@ function tabuada(){
    
    var tabu = "":
    for(i=0; i<=10; i++){
-      tabu = tabu + numero + " x " + i " = " + i*numero+ "<br>;
+      tabu = tabu + numero + " x " + i " = " + i*numero+ "<br>";
       }
       
      resultado.innerHTML = tabu;
