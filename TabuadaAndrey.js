@@ -9,3 +9,4 @@ function tabuada(){
       }
       
      resultado.innerHTML = tabu;
+}
